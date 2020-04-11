@@ -1,0 +1,4 @@
+Analysis:
+- The latitude and the degree of temperature which is inversely related on the temperature charts.
+- Cloudiness and latitude impacts weather, primarily in higher rates of precipitation, due to higher concentrations of vaporized water in the atmosphere. 
+- At higher altitudes, with lower wind speeds, we can see a relationship of higher water vapor concentrations.  This logically makes sense as water vapor is not moved, and rather stays static, in these environments given the wind does not move the vapor.  
